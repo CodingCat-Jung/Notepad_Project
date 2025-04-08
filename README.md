@@ -67,7 +67,6 @@
 
 - **Language**: C++
 - **IDE**: Visual Studio 
-- **OS**: Windows 10 이상 권장
 
 ---
 
